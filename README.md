@@ -1,4 +1,4 @@
-# Graphical Passwoord for Underaged (GPU)
+# Graphical Password for Underaged (GPU)
 
 Graphical Password for Underaged is a project that is developed to provide an additional layer of security against alphanumeric passwords by using images as passwords for the childrens to make them easier to memories the credential. A user can create a unique and personalized image password by searching and selecting images related to anything they want to setup, along with the combination of traditional alphanumeric password for enhanced security. This project is developed using the MERN stack (MongoDB, Express, React, Node.js) along with Tailwind CSS.
 
